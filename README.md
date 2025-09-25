@@ -28,14 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                | Tech                   | Highlights           |
-|------------------------|-----------------------|----------------------|
-| Motorcycle Shop Website| Spring MVC, JSP, MySQL| Convenient to use    |
-
----
-
 ## 📫 Connect with Me
 
 - Gmail : kunkitfedfe@gmail.com
