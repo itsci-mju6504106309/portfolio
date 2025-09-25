@@ -38,10 +38,11 @@
 
 ## 📫 Connect with Me
 
-- **Facebook:** [กุลกิจ แก้วโชติช่วงกูล](https://www.facebook.com/kul.kic.k.w.choti.chwng.kul)
-- **Instagram:** [pxm.x_x](https://www.instagram.com/pxm.x_x/)
-- **Phone:** 061-628-3283
-- 📫 Reach me: kunkitfedfe@gmail.com
+- Gmail : kunkitfedfe@gmail.com
+- Facebook : [กุลกิจ แก้วโชติช่วงกูล](https://www.facebook.com/kul.kic.k.w.choti.chwng.kul)
+- Instagram : [pxm.x_x](https://www.instagram.com/pxm.x_x/)
+- Phone : 061-628-3283
+
 
 ## 🌏 Languages
 
