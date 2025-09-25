@@ -9,7 +9,7 @@
 ## 🖊️ About Me
 
 - 🌱 I'm currently learning : Spring MVC, Spring Boot, JSP, CSS, JavaScript
-- 🛠 Tools: VS Code, GitHub, Eclipse
+- 🛠 Tools : VS Code, Eclipse
 - 🚀 Aspiring : Software Engineer / Back-End Developer
 
 ---
