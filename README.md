@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning : Spring MVC, Spring Boot, JSP, CSS, JavaScript
 - 🛠 Tools: VS Code, GitHub, Eclipse
 - 🎯 2025 Goal: Developing a user-friendly website
-- 📫 Reach me: your.email@example.com
+- 📫 Reach me: kunkitfedfe@gmail.com
 
 ---
 
