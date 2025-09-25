@@ -10,8 +10,7 @@
 
 - 🌱 I'm currently learning : Spring MVC, Spring Boot, JSP, CSS, JavaScript
 - 🛠 Tools: VS Code, GitHub, Eclipse
-- 🎯 2025 Goal: Developing a user-friendly website
-
+- 🚀 Aspiring : Software Engineer / Back-End Developer
 
 ---
 
@@ -33,14 +32,17 @@
 ## 🛡️ Skills
 
 ### Hard Skills
-- Java / CSS / HTML
+- C / C++ /  Java / JavaScript 
+- CSS / HTML
 - MySQL
-- Microsoft Office
 
 ### Soft Skills
 - Problem Solving
-- Creativity
+- Communication Skills
 - Team Work
+- Self-Learning
+- Project Management
 
+- 
 ---
 Thanks for visiting my profile!  
