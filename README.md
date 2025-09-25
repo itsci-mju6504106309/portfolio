@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/itsci-mju6504106309/portfolio/blob/main/profile.jpg?raw=true" width="200" alt="profile photo"/>
+</p>
 <h1 align="center"> I'm [Kunkit  Kaewchotchuangkul] 👋</h1>
 <p align="center"><b>Front-End Developer</b></p>
 
