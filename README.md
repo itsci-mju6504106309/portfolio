@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/itsci-mju6504106309/portfolio/blob/main/524801614_577169655361274_2203171571465015507_n.jpg?raw=true" width="200" alt="profile photo"/>
 </p>
-<h1 align="center"> I'm [Kunkit  Kaewchotchuangkul] 👋</h1>
+<h1 align="center"> I'm [Kunkit Kaewchotchuangkul] 👋</h1>
 <p align="center"><b>Back-End Developer</b></p>
 
 ---
@@ -42,7 +42,7 @@
 - Team Work
 - Self-Learning
 - Project Management
-
-- 
+  
+  
 ---
 Thanks for visiting my profile!  
