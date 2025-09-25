@@ -39,10 +39,9 @@
 
 ## 📫 Connect with Me
 
-- **Facebook:** [Jakkaphat Chaiwongsa](https://facebook.com/jakkaphat.chaiwongsa)
-- **Instagram:** [m_onkey66](https://instagram.com/m_onkey66)
-- **LINE:** jkp04
-- **Phone:** 065-718-0820
+- **Facebook:** [กุลกิจ แก้วโชติช่วงกูล](https://www.facebook.com/kul.kic.k.w.choti.chwng.kul)
+- **Instagram:** [pxm.x_x](https://www.instagram.com/pxm.x_x/)
+- **Phone:** 061-628-3283
 
 ## 🌏 Languages
 
@@ -65,4 +64,3 @@
 
 ---
 
-> “Do what you love, Love what you do.”
